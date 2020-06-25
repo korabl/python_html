@@ -1,0 +1,437 @@
+{
+    "response": {
+        "count": 43,
+        "items": [
+            {
+                "id": 41437811,
+                "name": "МХК",
+                "screen_name": "mhkoff",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-99.userapi.com/c847019/v847019948/2092fa/-wR1Y1lqStQ.jpg?ava=1",
+                "photo_100": "https://sun1-92.userapi.com/c847019/v847019948/2092f9/fWRH-tvfk-M.jpg?ava=1",
+                "photo_200": "https://sun1-86.userapi.com/c847019/v847019948/2092f8/D0pMOYVf_Yg.jpg?ava=1"
+            },
+            {
+                "id": 23213239,
+                "name": "Дзен",
+                "screen_name": "dzenpub",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-16.userapi.com/c851236/v851236915/8a5df/QmekWFBY37I.jpg?ava=1",
+                "photo_100": "https://sun1-21.userapi.com/c851236/v851236915/8a5de/MXnywHfQwuQ.jpg?ava=1",
+                "photo_200": "https://sun1-29.userapi.com/c851236/v851236915/8a5dd/Mz1KvX7Zhwk.jpg?ava=1"
+            },
+            {
+                "id": 29302425,
+                "name": "Шедевры рекламы",
+                "screen_name": "bestad",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-97.userapi.com/c638416/v638416715/10099/ufl7XWJy7vM.jpg?ava=1",
+                "photo_100": "https://sun1-27.userapi.com/c638416/v638416715/10098/poPNZ-nZSqY.jpg?ava=1",
+                "photo_200": "https://sun1-29.userapi.com/c638416/v638416715/10097/Xwhx63Oi-Y4.jpg?ava=1"
+            },
+            {
+                "id": 125004421,
+                "name": "Настоящий Лентач",
+                "screen_name": "true_lentach",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-95.userapi.com/c850020/v850020444/170e07/J8tqsBt-S-A.jpg?ava=1",
+                "photo_100": "https://sun1-20.userapi.com/c850020/v850020444/170e06/xEUdAaPYrcM.jpg?ava=1",
+                "photo_200": "https://sun1-84.userapi.com/c850020/v850020444/170e05/ex-Y2ubuSr0.jpg?ava=1"
+            },
+            {
+                "id": 69275738,
+                "name": "Давай лучше дома посмотрим",
+                "screen_name": "hofilm",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-86.userapi.com/PlgWWEe9U30h0YWyMOhHGRp2ej2cYAsIiwfBXw/KD0FzAG3_sk.jpg?ava=1",
+                "photo_100": "https://sun1-92.userapi.com/uK__3njCvqySJru5ecOo6CMqz7WVA8TYPiR-GA/VBKzEqBb00k.jpg?ava=1",
+                "photo_200": "https://sun1-96.userapi.com/Az0mrlgGju_fxUzDLbjnf6kjCOZo4hQKnOht6Q/x9p6yCGfQc8.jpg?ava=1"
+            },
+            {
+                "id": 178568133,
+                "name": "Как я стала продакт менеджером?",
+                "screen_name": "hibapm",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun9-31.userapi.com/c845417/v845417869/1a99cb/ifoyM6obTnI.jpg?ava=1",
+                "photo_100": "https://sun9-64.userapi.com/c845417/v845417869/1a99ca/CmAObMGDYv0.jpg?ava=1",
+                "photo_200": "https://sun9-51.userapi.com/c845417/v845417869/1a99c9/D113kqwmfxU.jpg?ava=1"
+            },
+            {
+                "id": 162917203,
+                "name": "Тёмный Дзен",
+                "screen_name": "darkdzen",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-96.userapi.com/c841231/v841231644/7f865/MvdWz4Yfjgw.jpg?ava=1",
+                "photo_100": "https://sun1-88.userapi.com/c841231/v841231644/7f864/6Y3iAIWfcyc.jpg?ava=1",
+                "photo_200": "https://sun1-83.userapi.com/c841231/v841231644/7f863/s9r3MYSrB_c.jpg?ava=1"
+            },
+            {
+                "id": 55098867,
+                "name": "Friendly Design",
+                "screen_name": "frendes",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-16.userapi.com/c857628/v857628402/17d42/toD43N_CXnA.jpg?ava=1",
+                "photo_100": "https://sun1-90.userapi.com/c857628/v857628402/17d41/iqAWI5CNk8U.jpg?ava=1",
+                "photo_200": "https://sun1-90.userapi.com/c857628/v857628402/17d40/Gg0jfYGm9os.jpg?ava=1"
+            },
+            {
+                "id": 169934613,
+                "name": "KARPOV.ANALYTICS",
+                "screen_name": "meaning_data",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-26.userapi.com/RIql_Kk6B214sKC3Tz6El40JQkYitzal_8bPkg/wu2FNgM8O9g.jpg?ava=1",
+                "photo_100": "https://sun1-26.userapi.com/gi5sNapcj2CHFlnJ5lomVmPuzNsayYblIW3v1A/jJtfV-IwfC8.jpg?ava=1",
+                "photo_200": "https://sun1-27.userapi.com/12WRv6yupU_Z1Xdb4rdA2836i9V4FXmTAHOb0Q/aCwt2_dQ5jk.jpg?ava=1"
+            },
+            {
+                "id": 33393308,
+                "name": "Стартапы и бизнес",
+                "screen_name": "vcru",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-25.userapi.com/c627624/v627624388/2decd/oBQ44T8CRHI.jpg?ava=1",
+                "photo_100": "https://sun1-18.userapi.com/c627624/v627624388/2decc/wmDY4pK3Ous.jpg?ava=1",
+                "photo_200": "https://sun1-22.userapi.com/c627624/v627624388/2deca/7H_UNsHmTQ4.jpg?ava=1"
+            },
+            {
+                "id": 37119411,
+                "name": "KudaGo: Home | Москва",
+                "screen_name": "kudago",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-99.userapi.com/OkVEK6_8PjIFTtWlBqlCw_RLmEqgvQ-a7nEg0Q/IdofZOr3mNo.jpg?ava=1",
+                "photo_100": "https://sun1-15.userapi.com/HKblmC6HBm723_12IVAeYatPkPbKSMLj7GohCA/mv05MnR1YEY.jpg?ava=1",
+                "photo_200": "https://sun1-97.userapi.com/1OUQ3gK4mE8RPFBrU3tKnbazxJZKmzHSwkUmQw/48vPB0NvpKc.jpg?ava=1"
+            },
+            {
+                "id": 50911295,
+                "name": "Бесплатные шрифты",
+                "screen_name": "shrift",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-15.userapi.com/c844722/v844722687/5927d/T96I19bcow0.jpg?ava=1",
+                "photo_100": "https://sun1-96.userapi.com/c844722/v844722687/5927c/HpLQRU1GGdQ.jpg?ava=1",
+                "photo_200": "https://sun1-95.userapi.com/c844722/v844722687/5927b/rPp16vju59Y.jpg?ava=1"
+            },
+            {
+                "id": 76982440,
+                "name": "«Медуза»",
+                "screen_name": "meduzaproject",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-98.userapi.com/c639129/v639129017/9306/m6TWWaaDGVE.jpg?ava=1",
+                "photo_100": "https://sun1-96.userapi.com/c639129/v639129017/9305/rDQTSw1e9jQ.jpg?ava=1",
+                "photo_200": "https://sun1-14.userapi.com/c639129/v639129017/9300/lBEYu70cuqY.jpg?ava=1"
+            },
+            {
+                "id": 171882029,
+                "name": "Фотограф Татьяна Паршикова",
+                "screen_name": "itaisphotographer",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun9-28.userapi.com/c855016/v855016906/1be76c/ADGEAJuFulI.jpg?ava=1",
+                "photo_100": "https://sun9-46.userapi.com/c855016/v855016906/1be76b/ut8-yJ5Wozw.jpg?ava=1",
+                "photo_200": "https://sun9-66.userapi.com/c855016/v855016906/1be76a/JOVUYymyEBo.jpg?ava=1"
+            },
+            {
+                "id": 33538623,
+                "name": "Дилетант",
+                "screen_name": "diletant_media",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-23.userapi.com/c857332/v857332583/90e76/vxg-urfZECU.jpg?ava=1",
+                "photo_100": "https://sun1-17.userapi.com/c857332/v857332583/90e75/qEwTHfXOjFE.jpg?ava=1",
+                "photo_200": "https://sun1-93.userapi.com/c857332/v857332583/90e74/A-cQisvFOPs.jpg?ava=1"
+            },
+            {
+                "id": 119691138,
+                "name": "Love Secret | Магазин нижнего белья",
+                "screen_name": "lovesecret.shop",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-47.userapi.com/c830609/v830609733/f9fe2/n0f1TObVWX8.jpg?ava=1",
+                "photo_100": "https://sun1-97.userapi.com/c830609/v830609733/f9fe1/OqXBAkbDzsU.jpg?ava=1",
+                "photo_200": "https://sun1-18.userapi.com/c830609/v830609733/f9fe0/MCoc75E0BW4.jpg?ava=1"
+            },
+            {
+                "id": 33608666,
+                "name": "Маркетинг Реклама Бизнес",
+                "screen_name": "marketing_s",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-85.userapi.com/c845418/v845418018/18712b/1ziRVWDq6i8.jpg?ava=1",
+                "photo_100": "https://sun1-93.userapi.com/c845418/v845418018/18712a/bQYDo27FF6E.jpg?ava=1",
+                "photo_200": "https://sun1-15.userapi.com/c845418/v845418018/187129/b5qoXHOMCMg.jpg?ava=1"
+            },
+            {
+                "id": 92307020,
+                "name": "Тамара, какого хрена?",
+                "screen_name": "odonata_live",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-18.userapi.com/c836734/v836734281/568b5/twbSpIDoZmI.jpg?ava=1",
+                "photo_100": "https://sun1-21.userapi.com/c836734/v836734281/568b4/BTCqJFkTNtk.jpg?ava=1",
+                "photo_200": "https://sun1-86.userapi.com/c836734/v836734281/568b3/YnlJXzUXZeg.jpg?ava=1"
+            },
+            {
+                "id": 66203392,
+                "name": "Фонд Наследия",
+                "screen_name": "fondnaslediya",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun9-8.userapi.com/c850216/v850216142/1d9195/ic_vI4a51Q0.jpg?ava=1",
+                "photo_100": "https://sun9-63.userapi.com/c850216/v850216142/1d9194/kSOwODTMwZQ.jpg?ava=1",
+                "photo_200": "https://sun9-59.userapi.com/c850216/v850216142/1d9193/ySs0n0j6cV4.jpg?ava=1"
+            },
+            {
+                "id": 49932389,
+                "name": "Park Live",
+                "screen_name": "parklivefest",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-94.userapi.com/c857732/v857732271/111071/zUzhKN2kYf8.jpg?ava=1",
+                "photo_100": "https://sun1-88.userapi.com/c857732/v857732271/111070/pzTfjyMqpkc.jpg?ava=1",
+                "photo_200": "https://sun1-86.userapi.com/c857732/v857732271/11106f/s-QzFKAyAhA.jpg?ava=1"
+            },
+            {
+                "id": 11283947,
+                "name": "Яндекс",
+                "screen_name": "yandex",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-28.userapi.com/jLX-1F3qk5GIm-itLjDFsPh8ojgQ_7WdjhmY4Q/w5p70CksMF8.jpg?ava=1",
+                "photo_100": "https://sun1-14.userapi.com/KZipKbhC0R8_aM-p9qDNEolRj9I_5fgAUxJxrA/N48BT8qWyys.jpg?ava=1",
+                "photo_200": "https://sun1-20.userapi.com/eZoUzM6isJ3-k_XC77YmCmN3fSxPqNgMO1R15g/rfhhwY52hFI.jpg?ava=1"
+            },
+            {
+                "id": 42809683,
+                "name": "AIC. Умный дизайн — и точка.",
+                "screen_name": "aicru",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-18.userapi.com/c858436/v858436456/89b9a/ZbZZDL67J-w.jpg?ava=1",
+                "photo_100": "https://sun1-23.userapi.com/c858436/v858436456/89b99/34QqL6PocjE.jpg?ava=1",
+                "photo_200": "https://sun1-19.userapi.com/c858436/v858436456/89b98/OuvITuqLZWY.jpg?ava=1"
+            },
+            {
+                "id": 113590406,
+                "name": "ALIEXPRESS STYLIST",
+                "screen_name": "s_stylist",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-21.userapi.com/c627924/v627924915/30a72/BvtVjwgVWV4.jpg?ava=1",
+                "photo_100": "https://sun1-83.userapi.com/c627924/v627924915/30a71/vnE94gXxyCw.jpg?ava=1",
+                "photo_200": "https://sun1-25.userapi.com/c627924/v627924915/30a70/2ZvlzAS-eyM.jpg?ava=1"
+            },
+            {
+                "id": 51890028,
+                "name": "Skyeng",
+                "screen_name": "skyeng",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-18.userapi.com/pnKh4ALmisCGXoAXtXgqU9vn2ZNwk5M__iWWoA/UhnHS1uyj0U.jpg?ava=1",
+                "photo_100": "https://sun1-16.userapi.com/y-vgQBzFrINH08m8FID8sevYeChBN9Gr5uCwYg/kjlTdVDUItA.jpg?ava=1",
+                "photo_200": "https://sun1-97.userapi.com/-MkdvNNpVMr3WArUcaJPBwplT-MwZwUJGyk23Q/QwsibfDimbY.jpg?ava=1"
+            },
+            {
+                "id": 96400007,
+                "name": "Тайный гость Skuratov Coffee",
+                "screen_name": "secret_skuratov_coffee",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun9-61.userapi.com/c622024/v622024305/31e06/r_9DSkmZvyY.jpg?ava=1",
+                "photo_100": "https://sun9-5.userapi.com/c622024/v622024305/31e05/Q_ldfkijnBM.jpg?ava=1",
+                "photo_200": "https://sun9-67.userapi.com/c622024/v622024305/31e04/xahVkDqsZNw.jpg?ava=1"
+            },
+            {
+                "id": 10351165,
+                "name": "Red Pepper Film",
+                "screen_name": "red_pepper_creative",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-83.userapi.com/c851536/v851536761/73b04/2MsAWsgzW3A.jpg?ava=1",
+                "photo_100": "https://sun1-14.userapi.com/c851536/v851536761/73b03/nZM7ePVNJlo.jpg?ava=1",
+                "photo_200": "https://sun1-98.userapi.com/c851536/v851536761/73b02/5pVzzkEK0VU.jpg?ava=1"
+            },
+            {
+                "id": 91933860,
+                "name": "N + 1",
+                "screen_name": "nplusone",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-17.userapi.com/c840133/v840133420/ad0ff/YqqHM7jrPpQ.jpg?ava=1",
+                "photo_100": "https://sun1-97.userapi.com/c840133/v840133420/ad0fe/Pl7wIk5s54c.jpg?ava=1",
+                "photo_200": "https://sun1-16.userapi.com/c840133/v840133420/ad0fd/FD7eGqemg6Q.jpg?ava=1"
+            },
+            {
+                "id": 114539266,
+                "name": "ЖЕЛТАЯ ВЕШАЛКА     Vintage. Consciousness.",
+                "screen_name": "yellow_hanger",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-97.userapi.com/c629121/v629121736/3e00b/j8DZImtrCP8.jpg?ava=1",
+                "photo_100": "https://sun1-26.userapi.com/c629121/v629121736/3e00a/nIz0VJ5JQiY.jpg?ava=1",
+                "photo_200": "https://sun1-27.userapi.com/c629121/v629121736/3e009/wMq5635zWWw.jpg?ava=1"
+            },
+            {
+                "id": 87302295,
+                "name": "песни, под которые можно лежать на полу",
+                "screen_name": "sadonthefloor",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-88.userapi.com/c625228/v625228803/1c06b/Uxcl3xykVWw.jpg?ava=1",
+                "photo_100": "https://sun1-27.userapi.com/c625228/v625228803/1c06a/pVEbUo79gaQ.jpg?ava=1",
+                "photo_200": "https://sun1-25.userapi.com/c625228/v625228803/1c069/4lPfirpPTnc.jpg?ava=1"
+            },
+            {
+                "id": 35684707,
+                "name": "Intelligent design",
+                "screen_name": "intelligentdesign",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-86.userapi.com/c624720/v624720157/2c890/gMndaX8Amt0.jpg?ava=1",
+                "photo_100": "https://sun1-84.userapi.com/c624720/v624720157/2c88f/MAbgPTaspXA.jpg?ava=1",
+                "photo_200": "https://sun1-99.userapi.com/c624720/v624720157/2c88d/6jImHirSGB0.jpg?ava=1"
+            },
+            {
+                "id": 10933209,
+                "name": "Хакер / xakep.ru — взлом, безопасность и защита",
+                "screen_name": "xakep_mag",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-92.userapi.com/c850628/v850628727/cfb0/TidXySgClac.jpg?ava=1",
+                "photo_100": "https://sun1-89.userapi.com/c850628/v850628727/cfaf/S3HddOb1_GA.jpg?ava=1",
+                "photo_200": "https://sun1-16.userapi.com/c850628/v850628727/cfae/H-iDGI7U0do.jpg?ava=1"
+            },
+            {
+                "id": 168532141,
+                "name": "JOSH",
+                "screen_name": "josh.cafe",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun9-33.userapi.com/c824502/v824502498/1810ef/CpuTpATO25U.jpg?ava=1",
+                "photo_100": "https://sun9-47.userapi.com/c824502/v824502498/1810ee/vGCBXjXGSqE.jpg?ava=1",
+                "photo_200": "https://sun9-45.userapi.com/c824502/v824502498/1810ed/n5km8ofOVog.jpg?ava=1"
+            },
+            {
+                "id": 128254611,
+                "name": "Карта истории",
+                "screen_name": "kartaistorii",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-19.userapi.com/c841330/v841330290/5e2f3/MjzVyh7_U_c.jpg?ava=1",
+                "photo_100": "https://sun1-30.userapi.com/c841330/v841330290/5e2f2/tRYIVbw2wMc.jpg?ava=1",
+                "photo_200": "https://sun1-84.userapi.com/c841330/v841330290/5e2ed/Yiu-meKrCPk.jpg?ava=1"
+            },
+            {
+                "id": 146153861,
+                "name": "work bitch",
+                "screen_name": "workbitchplanner",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun9-15.userapi.com/c846121/v846121130/7a3d9/IL7p0vrDCkw.jpg?ava=1",
+                "photo_100": "https://sun9-63.userapi.com/c846121/v846121130/7a3d8/AZKvOhcbKzs.jpg?ava=1",
+                "photo_200": "https://sun9-37.userapi.com/c846121/v846121130/7a3d7/QGgy_DLycmg.jpg?ava=1"
+            },
+            {
+                "id": 63731512,
+                "name": "Vandrouki | Путешествия почти бесплатно (RU)",
+                "screen_name": "vandroukiru",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-18.userapi.com/c854120/v854120274/1f0ea1/t_-ExocBq-I.jpg?ava=1",
+                "photo_100": "https://sun1-21.userapi.com/c854120/v854120274/1f0ea0/GD-izN3EZqA.jpg?ava=1",
+                "photo_200": "https://sun1-22.userapi.com/c854120/v854120274/1f0e9f/vMJKouMKOzk.jpg?ava=1"
+            },
+            {
+                "id": 56513541,
+                "name": "чио рио",
+                "screen_name": "mylo55",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun9-54.userapi.com/c847018/v847018929/5a69f/fdRS0oEkCwQ.jpg?ava=1",
+                "photo_100": "https://sun9-53.userapi.com/c847018/v847018929/5a69e/XpgfrA2Bzbk.jpg?ava=1",
+                "photo_200": "https://sun9-25.userapi.com/c847018/v847018929/5a69d/V_VtuRcl1RY.jpg?ava=1"
+            },
+            {
+                "id": 161423098,
+                "name": "Динамический ретаргетинг ВКонтакте",
+                "screen_name": "club161423098",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-26.userapi.com/c841523/v841523709/62d66/Dtu-u0zJLTM.jpg?ava=1",
+                "photo_100": "https://sun1-17.userapi.com/c841523/v841523709/62d65/0lS1HBlwtN4.jpg?ava=1",
+                "photo_200": "https://sun1-91.userapi.com/c841523/v841523709/62d64/JCtj8vKUAYU.jpg?ava=1"
+            },
+            {
+                "id": 150593037,
+                "name": "Рекламные технологии Яндекса",
+                "screen_name": "yandex_adv",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun9-2.userapi.com/c638424/v638424471/534e6/ETa_RwPrXWI.jpg?ava=1",
+                "photo_100": "https://sun9-12.userapi.com/c638424/v638424471/534e5/gnYgKnHRaRA.jpg?ava=1",
+                "photo_200": "https://sun9-19.userapi.com/c638424/v638424471/534e4/O6DpEPlOjmY.jpg?ava=1"
+            },
+            {
+                "id": 174756707,
+                "name": "Дизайн Такой",
+                "screen_name": "podcastdesigntakoy",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun9-18.userapi.com/c854224/v854224715/8464b/E2TFkx65H0M.jpg?ava=1",
+                "photo_100": "https://sun9-10.userapi.com/c854224/v854224715/8464a/qBLJ5WFM5ts.jpg?ava=1",
+                "photo_200": "https://sun9-25.userapi.com/c854224/v854224715/84649/1Fk8eb9eCDc.jpg?ava=1"
+            },
+            {
+                "id": 71741545,
+                "name": "Google Россия",
+                "screen_name": "googlerussia",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-92.userapi.com/c851528/v851528297/1072b/QoKRG6oSwDU.jpg?ava=1",
+                "photo_100": "https://sun1-47.userapi.com/c851528/v851528297/1072a/KRDakG7xOK4.jpg?ava=1",
+                "photo_200": "https://sun1-93.userapi.com/c851528/v851528297/10729/WmFVTc0tSRY.jpg?ava=1"
+            },
+            {
+                "id": 19542789,
+                "name": "ВКонтакте для бизнеса",
+                "screen_name": "business",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-92.userapi.com/c846417/v846417894/f10b5/bT1UycmBUy0.jpg?ava=1",
+                "photo_100": "https://sun1-30.userapi.com/c846417/v846417894/f10b4/o03kUx4LeHo.jpg?ava=1",
+                "photo_200": "https://sun1-19.userapi.com/c846417/v846417894/f10b3/ih_cn8BwJbQ.jpg?ava=1"
+            },
+            {
+                "id": 27566412,
+                "name": "o r p h e u s",
+                "screen_name": "s_orpheus",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun9-4.userapi.com/c626121/v626121300/63889/FNt_eUXePX4.jpg?ava=1",
+                "photo_100": "https://sun9-36.userapi.com/c626121/v626121300/63888/5Xj9DdFFLdE.jpg?ava=1",
+                "photo_200": "https://sun9-49.userapi.com/c626121/v626121300/63887/Xr-cq0lpxd0.jpg?ava=1"
+            },
+            {
+                "id": 149550572,
+                "name": "FABRIKA",
+                "screen_name": "lihho",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-85.userapi.com/c845418/v845418712/6ad28/cz4A5LFUA8g.jpg?ava=1",
+                "photo_100": "https://sun1-93.userapi.com/c845418/v845418712/6ad27/VpzcpyLSzYo.jpg?ava=1",
+                "photo_200": "https://sun1-14.userapi.com/c845418/v845418712/6ad26/NWmlSiMXFeQ.jpg?ava=1"
+            }
+        ]
+    }
+}
